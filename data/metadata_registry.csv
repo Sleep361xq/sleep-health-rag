@@ -1,0 +1,16 @@
+filename,title,doc_type,qa_doc_type,topic,source,language,year
+central-sleep-apnea-guideline-AASM-2025.md,Treatment of central sleep apnea in adults: an American Academy of Sleep Medicine clinical practice guideline,guideline,,csa,AASM,en,2025
+inpatient-sleep-apnea-guideline-AASM-2025.md,Evaluation and management of obstructive sleep apnea in adults hospitalized for medical care: an American Academy of Sleep Medicine clinical practice guideline,guideline,,osa,AASM,en,2025
+美国睡眠医学会2017年成人阻塞性睡眠呼吸暂停诊断临床指南解读_魏源.md,美国睡眠医学会2017年成人阻塞性睡眠呼吸暂停诊断临床指南解读,guideline,,osa,医药专论,zh,2020
+失眠症诊断和治疗指南（2025版）.md,失眠症诊断和治疗指南（2025版）,guideline,,insomnia,中国睡眠研究会,zh,2025
+睡眠障碍的治疗方法.md,睡眠障碍的治疗方法,education,,sleep_hygiene,中国国家卫生健康委员会,zh,2020
+中国成人失眠共病阻塞性睡眠呼吸暂停诊治指南（2024）.md,中国成人失眠共病阻塞性睡眠呼吸暂停诊治指南（2024版）,guideline,,osa,中国医师协会睡眠医学专业委员会,zh,2024
+中国成人失眠诊断与治疗指南（2023 版）.md,中国成人失眠诊断与治疗指南（2023版）,guideline,,insomnia,中华医学会神经病学分会睡眠障碍学组,zh,2023
+中国儿童阻塞型睡眠呼吸暂停诊断与治疗指南（2020）.md,中国儿童阻塞性睡眠呼吸暂停诊断与治疗指南（2020）,guideline,,osa,中国儿童OSA诊断与治疗指南制订工作组,zh,2020
+如何改善我们的睡眠：从认识到应对 - 中国睡眠研究会.md,如何改善我们的睡眠：从认识到应对,education,,general,中国睡眠研究会,zh,2024
+睡眠、睡眠科学与睡眠医学 - 中国睡眠研究会.md,睡眠、睡眠科学与睡眠医学,education,,general,中国睡眠研究会,zh,2013
+睡眠不足的危害 - 中国睡眠研究会.md,睡眠不足的危害,education,,general,中国睡眠研究会,zh,2014
+睡眠科普知识 - 中国睡眠研究会.md,睡眠科普知识,education,,general,中国睡眠研究会,zh,2013
+qa_education.csv,qa_education,qa,education,,,zh,2025
+qa_guideline.csv,qa_guideline,qa,guideline,,,zh,2026
+qa_other.csv,qa_other,qa,other,,,zh,2026
